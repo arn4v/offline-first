@@ -1,6 +1,6 @@
 # Offline-First
 
-A list of projects in the offline-first storage/sync/multiplayer space.
+A list of projects in the offline-first storage, sync & realtime collaboration/multiplayer space.
 
 ## ORMs
 
@@ -22,7 +22,7 @@ A list of projects in the offline-first storage/sync/multiplayer space.
 
 ## Managed Platforms
 
-1. [InstantDB](https://instantdb.com)
+1. [InstantDB](https://instantdb.com) – Firebase alternative with a Graph-based client DB at the core
 2. [Liveblocks](https://liveblocks.io)
 
 ## Research
