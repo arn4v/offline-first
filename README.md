@@ -34,6 +34,7 @@ Note(2): Projects that are being spun up as
 1. [InstantDB](https://instantdb.com) – Firebase alternative with a Graph-based client DB at the core
 3. [ElectricSQL](https://electric-sql.com/)
 4. [Homebase](https://homebase.io/)
+5. [Convex](https://www.convex.dev/)
 
 ## Research
 
