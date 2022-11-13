@@ -2,10 +2,19 @@
 
 A list of projects in the offline-first storage, sync & realtime collaboration/multiplayer space.
 
-## ORMs
+Note: While many of these projects are at an intersection, you'll find projects in the category they're primarily focused on.
+Note(2): Projects that are being spun up as 
 
-1. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
-2. [Vlcn](https://github.com/vlcn-io/vlcn-orm) – ORM for Local-first apps using SQLite based storage
+## Databases
+
+1. [RxDB](https://github.com/pubkey/rxdb)
+2. [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
+3. [Tuple](https://github.com/ccorcos/tuple-database)
+4. [Datascript](https://github.com/tonsky/datascript)
+
+## ORMs
+4. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
+5. [Vlcn](https://github.com/vlcn-io/vlcn-orm) – ORM for Local-first apps using SQLite based storage
 
 ## CRDT Implementations
 
@@ -14,17 +23,24 @@ A list of projects in the offline-first storage, sync & realtime collaboration/m
 3. [Yjs](https://github.com/yjs/yjs)
 4. [Automerge](https://github.com/automerge/automerge)
 
-## Databases
 
-1. [RxDB](https://github.com/pubkey/rxdb)
-2. [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
-3. [Tuple](https://github.com/ccorcos/tuple-database)
-
-## Managed Platforms
+## Startups
 
 1. [InstantDB](https://instantdb.com) – Firebase alternative with a Graph-based client DB at the core
 2. [Liveblocks](https://liveblocks.io)
+3. [ElectricSQL](https://electric-sql.com/)
+4. [Homebase](https://homebase.io/)
 
 ## Research
 
 1. [Local-first software – You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) by [Ink and Switch](https://www.inkandswitch.com)
+
+---
+
+## Blogs/Essays/Articles
+
+### CRDTs
+
+## Talks
+
+### CRDTs
