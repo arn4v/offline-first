@@ -5,7 +5,7 @@ A list of projects in the offline-first storage/sync/multiplayer space.
 ## ORMs
 
 1. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
-2. [Vlcn](https://github.com/vlcn-io/vlcn.io) – ORM for Local-first apps using SQLite based storage
+2. [Vlcn](https://github.com/vlcn-io/vlcn-orm) – ORM for Local-first apps using SQLite based storage
 
 ## CRDT Implementations
 
