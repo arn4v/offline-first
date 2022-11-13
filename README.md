@@ -20,6 +20,11 @@ A list of projects in the offline-first storage/sync/multiplayer space.
 2. [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 3. [Tuple](https://github.com/ccorcos/tuple-database)
 
+## Managed Platforms
+
+1. [InstantDB](https://instantdb.com)
+2. [Liveblocks](https://liveblocks.io)
+
 ## Research
 
 1. [Local-first software – You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) by [Ink and Switch](https://www.inkandswitch.com)
