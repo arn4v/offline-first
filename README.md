@@ -36,6 +36,10 @@ Note(2): Projects that are being spun up as
 4. [Homebase](https://homebase.io/)
 5. [Convex](https://www.convex.dev/)
 
+## Miscellaneous
+
+1. [Redux Offline](https://github.com/redux-offline/redux-offline) – Persistence layer for Redux stores.
+
 ## Research
 
 1. [Local-first software – You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) by [Ink and Switch](https://www.inkandswitch.com)
