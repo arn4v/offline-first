@@ -25,10 +25,13 @@ Note(2): Projects that are being spun up as
 4. [Automerge](https://github.com/automerge/automerge)
 
 
+## Syncing
+1. [Liveblocks](https://liveblocks.io)
+2. [Replicache](https://replicache.dev/)
+
 ## Startups
 
 1. [InstantDB](https://instantdb.com) – Firebase alternative with a Graph-based client DB at the core
-2. [Liveblocks](https://liveblocks.io)
 3. [ElectricSQL](https://electric-sql.com/)
 4. [Homebase](https://homebase.io/)
 
