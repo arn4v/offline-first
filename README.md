@@ -19,10 +19,18 @@ Note(2): Projects that are being spun up as
 
 ## CRDT Implementations
 
-1. [CR Sqlite](https://github.com/vlcn-io/cr-sqlite) – CRDT implementation on top of SQLite, loadable as an extension.
-2. [Tinymerge](https://github.com/siliconjungle/tiny-merge)
-3. [Yjs](https://github.com/yjs/yjs)
-4. [Automerge](https://github.com/automerge/automerge)
+### JavaScript/TypeScript
+1. [Tinymerge](https://github.com/siliconjungle/tiny-merge)
+2. [Yjs](https://github.com/yjs/yjs)
+3. [Automerge](https://github.com/automerge/automerge)
+
+### C
+1. [CR SQlite](https://github.com/vlcn-io/cr-sqlite) – CRDT implementation on top of SQLite, loadable as an extension.
+
+### Rust
+1. [Diamond Types (Rust)](https://github.com/josephg/diamond-types)
+2. [y-crdt - Rust port of Y.js](https://github.com/y-crdt/y-crdt)
+3. [automerge-rs](https://github.com/automerge/automerge-rs)
 
 
 ## Syncing
@@ -49,7 +57,6 @@ Note(2): Projects that are being spun up as
 ## Blogs/Essays/Articles
 
 ### CRDTs
+1. [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
 
 ## Talks
-
-### CRDTs
