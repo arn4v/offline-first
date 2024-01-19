@@ -12,6 +12,7 @@ Note(2): Projects that are being spun up as
 3. [Tuple](https://github.com/ccorcos/tuple-database)
 4. [Datascript](https://github.com/tonsky/datascript)
 5. [Gun](https://github.com/amark/gun)
+6. [TinyBase](https://tinybase.org/)
 
 ## ORMs
 1. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
