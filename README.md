@@ -14,6 +14,7 @@ Note(2): Projects that are being spun up as
 5. [Gun](https://github.com/amark/gun)
 6. [TinyBase](https://tinybase.org/)
 7. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
+8. [SignalDB](https://signaldb.js.org/)
 
 ## ORMs/Toolkits/Frameworks
 
