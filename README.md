@@ -13,10 +13,12 @@ Note(2): Projects that are being spun up as
 4. [Datascript](https://github.com/tonsky/datascript)
 5. [Gun](https://github.com/amark/gun)
 6. [TinyBase](https://tinybase.org/)
+7. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
 
-## ORMs
-1. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
-2. [Vlcn](https://github.com/vlcn-io/vlcn-orm) – ORM & P2P Syncing library to build offline-first apps.
+## ORMs/Toolkits/Frameworks
+
+1. [Vlcn](https://github.com/vlcn-io/vlcn-orm) – ORM & P2P Syncing library to build offline-first apps.
+2. [Evolu](https://github.com/evoluhq/evolu)
 
 ## CRDT Implementations
 
