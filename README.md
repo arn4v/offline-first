@@ -1,4 +1,4 @@
-# Offline-First
+  # Offline-First
 
 A list of projects in the offline-first storage, sync & realtime collaboration/multiplayer space.
 
@@ -61,9 +61,10 @@ A list of projects in the offline-first storage, sync & realtime collaboration/m
 
 ### Videos
 
-1. [CRDTs for Mortals by James Long](https://www.youtube.com/watch?v=DEcwa68f-jY)
+1. [CRDTs for Mortals](https://www.youtube.com/watch?v=DEcwa68f-jY) - James Long
 2. [Conflict-Free Replicated Data Types (CRDT) for Distributed JavaScript Apps.](https://www.youtube.com/watch?v=M8-WFTjZoA0)
-3. [John Mumm - A CRDT Primer: Defanging Order Theory](https://www.youtube.com/watch?v=OOlnp2bZVRs)
+3. [A CRDT Primer: Defanging Order Theory](https://www.youtube.com/watch?v=OOlnp2bZVRs) - John Mumm
 4. [Building a collaborative text editor with WebRTC and CRDTs](https://www.youtube.com/watch?v=hy0ePbpna5Y)
-6. [​Geoffrey Litt: Riffle - Reactive Relational State (Local-First Meetup Berlin #1)](https://www.youtube.com/watch?v=zjl7CpG9h3w)
+6. [​Riffle - Reactive Relational State (Local-First Meetup Berlin #1)](https://www.youtube.com/watch?v=zjl7CpG9h3w) - Geoffrey Litt
 7. [CRDTs for Non Academics](https://www.youtube.com/watch?v=vBU70EjwGfw)
+8. [Automerge: Making servers optional for real-time collaboration](https://www.youtube.com/watch?v=PHz17gwiOc8) - Martin Kleppmann
