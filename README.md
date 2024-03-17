@@ -52,11 +52,13 @@ A list of projects in the offline-first storage, sync & realtime collaboration/m
 
 ## Resources
 
-### Text
+### Writeups
 
-1. [Local-first software – You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) by [Ink and Switch](https://www.inkandswitch.com)
+1. [Local-first software – You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) - [Ink and Switch](https://www.inkandswitch.com)
 2. [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
 3. [Riffle - Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
+4. [Realtime editing of ordered sequences](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
+5. [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 
 ### Videos
 
