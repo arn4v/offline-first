@@ -12,17 +12,15 @@ A list of projects in the offline-first storage, sync & realtime collaboration/m
 6. [TinyBase](https://tinybase.org/)
 7. [SignalDB](https://signaldb.js.org/)
 8. [Fireproof](https://use-fireproof.com/)
+9. [Vlcn](https://github.com/vlcn-io/vlcn-orm) – ORM & P2P Syncing library to build offline-first apps.
+10. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor)
 
-## Syncing
-1. [Liveblocks](https://liveblocks.io)
-2. [Replicache](https://replicache.dev/)
-3. [SyncedStore](https://github.com/yousefed/SyncedStore)
-
-## ORMs/Toolkits/Frameworks
-
-1. [Vlcn](https://github.com/vlcn-io/vlcn-orm) – ORM & P2P Syncing library to build offline-first apps.
-2. [Evolu](https://github.com/evoluhq/evolu)
-3. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
+## Frameworks
+1. [Evolu](https://github.com/evoluhq/evolu)
+2. [Verdant](https://github.com/a-type/verdant)
+3. [Liveblocks](https://liveblocks.io)
+4. [Replicache](https://replicache.dev/)
+5. [SyncedStore](https://github.com/yousefed/SyncedStore)
 
 ## CRDT Implementations
 
@@ -59,6 +57,7 @@ A list of projects in the offline-first storage, sync & realtime collaboration/m
 3. [Riffle - Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
 4. [Realtime editing of ordered sequences](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
 5. [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
+6. [An introduction to state-based CRDTs](
 
 ### Videos
 
