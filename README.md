@@ -2,9 +2,6 @@
 
 A list of projects in the offline-first storage, sync & realtime collaboration/multiplayer space.
 
-Note: While many of these projects are at an intersection, you'll find projects in the category they're primarily focused on.
-Note(2): Projects that are being spun up as 
-
 ## Databases
 
 1. [RxDB](https://github.com/pubkey/rxdb)
@@ -13,33 +10,33 @@ Note(2): Projects that are being spun up as
 4. [Datascript](https://github.com/tonsky/datascript)
 5. [Gun](https://github.com/amark/gun)
 6. [TinyBase](https://tinybase.org/)
-7. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
-8. [SignalDB](https://signaldb.js.org/)
+7. [SignalDB](https://signaldb.js.org/)
+8. [Fireproof](https://use-fireproof.com/)
+
+## Syncing
+1. [Liveblocks](https://liveblocks.io)
+2. [Replicache](https://replicache.dev/)
+3. [SyncedStore](https://github.com/yousefed/SyncedStore)
 
 ## ORMs/Toolkits/Frameworks
 
 1. [Vlcn](https://github.com/vlcn-io/vlcn-orm) – ORM & P2P Syncing library to build offline-first apps.
 2. [Evolu](https://github.com/evoluhq/evolu)
+3. [Kikko](https://github.com/kikko-land/kikko) – Reactive query layer on top of SQLite with support for web, desktop (Electron/Tauri) and mobile (React Native/Capacitor).
 
 ## CRDT Implementations
 
-### JavaScript/TypeScript
+### JavaScript
 1. [Tinymerge](https://github.com/siliconjungle/tiny-merge)
 2. [Yjs](https://github.com/yjs/yjs)
 3. [Automerge](https://github.com/automerge/automerge)
 
-### C
-1. [CR SQlite](https://github.com/vlcn-io/cr-sqlite) – CRDT implementation on top of SQLite, loadable as an extension.
-
 ### Rust
-1. [Diamond Types (Rust)](https://github.com/josephg/diamond-types)
-2. [y-crdt - Rust port of Y.js](https://github.com/y-crdt/y-crdt)
-3. [automerge-rs](https://github.com/automerge/automerge-rs)
+1. [CR SQlite](https://github.com/vlcn-io/cr-sqlite) - LWW register for SQLite
+2. [Diamond Types (Rust)](https://github.com/josephg/diamond-types)
+3. [y-crdt - Rust port of Y.js](https://github.com/y-crdt/y-crdt)
+4. [automerge-rs](https://github.com/automerge/automerge-rs)
 
-
-## Syncing
-1. [Liveblocks](https://liveblocks.io)
-2. [Replicache](https://replicache.dev/)
 
 ## Startups
 
@@ -51,16 +48,22 @@ Note(2): Projects that are being spun up as
 ## Miscellaneous
 
 1. [Redux Offline](https://github.com/redux-offline/redux-offline) – Persistence layer for Redux stores.
+2. [localForage](https://github.com/localForage/localForage)
 
-## Research
+## Resources
+
+### Text
 
 1. [Local-first software – You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) by [Ink and Switch](https://www.inkandswitch.com)
+2. [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
+3. [Scaling the Linear Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine)
+4. [Riffle - Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
 
----
+### Videos
 
-## Blogs/Essays/Articles
-
-### CRDTs
-1. [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
-
-## Talks
+1. [CRDTs for Mortals by James Long](https://www.youtube.com/watch?v=DEcwa68f-jY)
+2. [Conflict-Free Replicated Data Types (CRDT) for Distributed JavaScript Apps.](https://www.youtube.com/watch?v=M8-WFTjZoA0)
+3. [John Mumm - A CRDT Primer: Defanging Order Theory](https://www.youtube.com/watch?v=OOlnp2bZVRs)
+4. [Building a collaborative text editor with WebRTC and CRDTs](https://www.youtube.com/watch?v=hy0ePbpna5Y)
+6. [​Geoffrey Litt: Riffle - Reactive Relational State (Local-First Meetup Berlin #1)](https://www.youtube.com/watch?v=zjl7CpG9h3w)
+7. [CRDTs for Non Academics](https://www.youtube.com/watch?v=vBU70EjwGfw)
