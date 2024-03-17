@@ -56,8 +56,7 @@ A list of projects in the offline-first storage, sync & realtime collaboration/m
 
 1. [Local-first software – You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) by [Ink and Switch](https://www.inkandswitch.com)
 2. [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
-3. [Scaling the Linear Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine)
-4. [Riffle - Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
+3. [Riffle - Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
 
 ### Videos
 
@@ -68,3 +67,9 @@ A list of projects in the offline-first storage, sync & realtime collaboration/m
 6. [​Riffle - Reactive Relational State (Local-First Meetup Berlin #1)](https://www.youtube.com/watch?v=zjl7CpG9h3w) - Geoffrey Litt
 7. [CRDTs for Non Academics](https://www.youtube.com/watch?v=vBU70EjwGfw)
 8. [Automerge: Making servers optional for real-time collaboration](https://www.youtube.com/watch?v=PHz17gwiOc8) - Martin Kleppmann
+9. [Linear's realtime sync system](https://www.youtube.com/watch?v=WxK11RsLqp4&t=2169s) - Tuomas Artman
+10. [Scaling the Linear Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine)
+11. [Metamuse Episode 56 - Sync]([url](https://museapp.com/podcast/56-sync/)https://museapp.com/podcast/56-sync/)
+
+### Podcasts
+1. [Localfirst.fm](https://localfirst.fm/)
