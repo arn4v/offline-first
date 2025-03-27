@@ -28,12 +28,14 @@ A list of projects in the offline-first storage, sync & realtime collaboration/m
 1. [Tinymerge](https://github.com/siliconjungle/tiny-merge)
 2. [Yjs](https://github.com/yjs/yjs)
 3. [Automerge](https://github.com/automerge/automerge)
+4. [Loro](https://github.com/loro-dev/loro)
 
 ### Rust
 1. [CR SQlite](https://github.com/vlcn-io/cr-sqlite) - LWW register for SQLite
 2. [Diamond Types (Rust)](https://github.com/josephg/diamond-types)
 3. [y-crdt - Rust port of Y.js](https://github.com/y-crdt/y-crdt)
 4. [automerge-rs](https://github.com/automerge/automerge-rs)
+5. [Loro](https://github.com/loro-dev/loro)
 
 
 ## Startups
